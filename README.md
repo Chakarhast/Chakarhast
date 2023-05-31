@@ -1,8 +1,16 @@
 <h1 align="center"> Hi, it's <a href="https://www.instagram.com/chakrahast/" target="_blank">Chakrahast</a> here <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /></h1>
 <br />
 
+<p float="left">
 <img src="robo.png"  height ="100" >
-
+<img src="Richie.png"  height ="100" >
+<img src="fullstack.png"  height ="85" >
+<img src="med.png"  height ="80" >
+<img src="student.png"  height ="100" >
+<img src="sustain.png"  height ="100" >
+<img src="marketing.png"  height ="100" >
+<img src="business.png"  height ="100" >
+</p>
 
 ## **Why Were Binary Trees Not Sufficient?**
 1. Height of Trees depend on `input sequence` of numbers. 
