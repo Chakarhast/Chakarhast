@@ -8,15 +8,16 @@
 <img src="med.png"  height ="80" >
 <img src="student.png"  height ="100" >
 <img src="sustain.png"  height ="100" >
-<img src="marketing.png"  height ="100" >
+<img src="marketing.png"  height ="105" >
 <img src="business.png"  height ="100" >
 <img src="robo.png"  height ="100" >
 </p>
 
-## **Why Were Binary Trees Not Sufficient?**
-1. Height of Trees depend on `input sequence` of numbers. 
-2. If input is either sorted or reverse-sorted then the tree is essentially a linked list. Worst case search complexity: `O(n)`
-3. We want to take advantage of the `O(logn)` search time that a balanced tree can provide.
+
+## **What am I?**
+- 🏤 I am a freshman at IIIT Delhi.
+- 📄 I am a note-taking enthusiast.
+- 🗂️ I am into organizing all sorts of data into the most efficient structure.
 
 ## **Some Definitions**
 
