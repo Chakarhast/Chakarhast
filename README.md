@@ -13,15 +13,11 @@
 <img src="med.png"  height ="60" >
 <img src="student.png"  height ="70" >
 <img src="sustain.png"  height ="70" >
-<img src="marketing.png"  height ="65" >
 <img src="business.png"  height ="70" >
 <img src="robo.png"  height ="70" >
 <img src="Richie.png"  height ="70" >
 <img src="fullstack.png"  height ="60" >
-<img src="med.png"  height ="60" >
-<img src="student.png"  height ="70" >
 <img src="sustain.png"  height ="70" >
-<img src="marketing.png"  height ="65" >
 <img src="business.png"  height ="70"
 </p>
 
